@@ -1,0 +1,10 @@
+<odoo>
+    <record id="seq_crm_lead_custom" model="ir.sequence">
+        <field name="name">CRM Lead Custom Sequence</field>
+        <field name="code">crm.lead.custom</field>
+        <field name="prefix">LEAD</field>
+        <field name="padding">4</field>
+        <field name="number_next">1</field>
+    </record>
+</odoo>
+
